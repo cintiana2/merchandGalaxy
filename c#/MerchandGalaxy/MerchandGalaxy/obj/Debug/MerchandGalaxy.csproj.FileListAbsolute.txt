@@ -1,0 +1,7 @@
+D:\codgo\semear\MerchandGalaxy\MerchandGalaxy\obj\Debug\MerchandGalaxy.csprojAssemblyReference.cache
+D:\codgo\semear\MerchandGalaxy\MerchandGalaxy\obj\Debug\MerchandGalaxy.csproj.CoreCompileInputs.cache
+D:\codgo\semear\MerchandGalaxy\MerchandGalaxy\bin\Debug\MerchandGalaxy.exe.config
+D:\codgo\semear\MerchandGalaxy\MerchandGalaxy\bin\Debug\MerchandGalaxy.exe
+D:\codgo\semear\MerchandGalaxy\MerchandGalaxy\bin\Debug\MerchandGalaxy.pdb
+D:\codgo\semear\MerchandGalaxy\MerchandGalaxy\obj\Debug\MerchandGalaxy.exe
+D:\codgo\semear\MerchandGalaxy\MerchandGalaxy\obj\Debug\MerchandGalaxy.pdb
